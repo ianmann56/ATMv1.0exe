@@ -1,0 +1,3 @@
+---	when creating a new account for the second time, don't make spaces null but reset so that the name space starts 		with "Firstname Lastname" and the starting amount starts with "Minimum of $50."
+
+---	factor in interest
